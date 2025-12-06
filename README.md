@@ -9,8 +9,9 @@ Date: December 6, 2025
 **⚠️ Context & Linkage**
 
 This repository serves as Part III of the "Asymmetric State" project. It maps the export of the domestic control architecture to US treaty allies and the Global South.
- * For the Domestic Bureaucracy Map: [LINK TO YOUR DOMESTIC REPO 1]
- * For the Financial/Crypto Layer: [LINK TO YOUR DOMESTIC REPO 2]
+
+*https://github.com/Leerrooy95/Tech_Consolidation_Map*
+ 
 
 # Executive Summary
 
