@@ -11,6 +11,8 @@ Date: December 6, 2025
 This repository serves as Part III of the "Asymmetric State" project. It maps the export of the domestic control architecture to US treaty allies and the Global South.
 
 *https://github.com/Leerrooy95/Tech_Consolidation_Map*
+
+*https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison*
  
 
 # Executive Summary
