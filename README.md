@@ -41,4 +41,5 @@ A predictive wargame simulating a Taiwan Strait crisis under the Vendor-State mo
  * Hypothesis: The US Vendor-Nexus will utilize "Kill Switch Diplomacy" and "Narrative Warfare" to throttle allied escalation, prioritizing supply chain stability over treaty obligations.
 
 # Citation & Distribution
+
 Information in this repository is derived from public filings, executive orders, and forensic analysis of federal procurement data. Cloning and mirroring is encouraged.
