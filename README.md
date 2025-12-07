@@ -6,11 +6,36 @@ Status: Active / Rolling Assessment
 Version: v3 (International Layer)
 Date: December 7, 2025
 
+## **Dataset Overview Final_Master_Dataset_Optimized_v3.csv**
+Total Records: 2,152 rows
+Time Horizon: 2015–2025 (Primary Focus) [Note: Includes historical context back to 2002 and future projections to 2029]
+File Size: ~2,200 entries (CSV)
+Key Data Columns
+ > Master_Date: The unified timeline key (YYYY-MM-DD or YYYY).
+ > Master_Entity: The primary subject (e.g., Elon Musk, Peter Thiel, GlobalFoundries, China (State)).
+ > Master_Text: The core intelligence—contains the raw event, news excerpt, or system log entry.
+ > Dataset_Type: The layer classification (see below).
+ > Master_Source: The origin of the data (PDF name, URL, or document title).
+ > Layers of Control (Dataset Composition)
+The dataset is structured into 5 distinct intelligence layers:
+ > System Log (150 entries): The "Control" timeline. Tracks China's steady state-driven advancements in AI, military, and infrastructure (2015–2024).
+ > Narrative Analysis (124 entries): The "Media" timeline. Tracks how US media (WaPo vs. Washington Times) framed key oligarchs (Thiel/Musk) during critical financial windows.
+ > Regulatory Intelligence (6 Critical Rows): The "Smoking Gun" entries. Confirms specific regulatory loopholes (31 CFR § 800.307) and sovereign ownership percentages (e.g., UAE owning 81% of GlobalFoundries).
+ > News Article / Raw Text (~1,800 entries): The "Noise." Supporting documentation, full-text excerpts from the Saudi/China reports, and raw scrapings that provide context.
+ # *Primary Entities Tracked*
+US "Moguls": Elon Musk, Peter Thiel, Larry Ellison, Donald Trump.
+Sovereign Actors: Saudi Arabia (PIF/Sanabil), UAE (Mubadala), China (State/PLA).
+Key Assets: GlobalFoundries, Anduril, Oracle, xAI.
+
+---
+
 ## What This Is
 
 This repository documents the international expansion of what I initially identified as a domestic US phenomenon: the transformation of the state from technology *customer* to technology *platform* for a specific cohort of vendors (Oracle, Palantir, Anduril, SpaceX, xAI).
 
 **Key Finding:** The same structural patterns documented domestically (procurement bypasses, personnel isomorphism, regulatory capture) reproduce internationally through bilateral treaties, "sovereign cloud" arrangements, and defense modernization programs.
+
+---
 
 ## **🚨 Major Update: The Sovereign Liquidity Trap (v3)**
 Date: December 2025
