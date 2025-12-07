@@ -13,33 +13,94 @@ This repository serves as Part III of the "Asymmetric State" project. It maps th
 *https://github.com/Leerrooy95/Tech_Consolidation_Map*
 
 *https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison*
- 
 
-# Executive Summary
+## What This Is
 
-While the domestic "Vendor-State" focuses on the capture of US federal agencies (DOGE, HHS, DoD), the global strategy operates on a tripartite logic of Structural Subsumption.
-The "Stargate" AI infrastructure and "IL6 Ghost Architecture" are not merely domestic tools; they are being exported as the mandatory operating system for the Western alliance. This creates a transnational "Asymmetric Alliance," where interoperability is achieved not through military protocols, but through shared dependency on a private vendor oligopoly.
-The Global Taxonomy
+This repository documents the international expansion of what I initially identified as a domestic US phenomenon: the transformation of the state from technology *customer* to technology *platform* for a specific cohort of vendors (Oracle, Palantir, Anduril, SpaceX, xAI).
 
-This repository documents three distinct strategies applied by the Vendor-Nexus:
+**Key Finding:** The same structural patterns documented domestically (procurement bypasses, personnel isomorphism, regulatory capture) reproduce internationally through bilateral treaties, "sovereign cloud" arrangements, and defense modernization programs.
 
-| Region | Strategy | Objective | Mechanism |
-|---|---|---|---|
-| The Allies (Japan, UK, AUS) | Structural Subsumption | OS Sovereignty Capture | The "IL6 Ghost" Architecture |
-| Emerging Asia (India, Indo) | Operational Dominance | Infrastructure Control | Connectivity Dependencies (Starlink) |
-| The Gulf (Saudi, UAE) | Capital Extraction | Liquidity for Stargate | "Circular Dependency" (MGX/PIF) |
+## Why This Matters
 
-# Repository Contents
+Allied nations (Poland, Ukraine, Israel, Japan, India, Indonesia) are integrating US vendor technologies into critical sovereignty functions:
+- National defense (Palantir's Maven, Anduril's Barracuda)
+- Intelligence infrastructure (Oracle sovereign cloud, Project Nimbus)
+- Communications (Starlink monopoly)
+- Energy systems (Westinghouse nuclear)
 
-1. The Asymmetric Alliance: Forensic Audit
-The core document. A 15,000-word analysis detailed:
- * The Ghost Architectures: How "Ghost Staff" (Kliger, Minor) and "Confidential 450" filings are used to bypass oversight.
- * The Sovereign Exception: Analysis of pardons (Leiweke, Cuellar) and regulatory immunity as tools of statecraft.
- * Country Case Studies: Deep dives into Japan (MHI vs. Anduril), The UK (NHS Data), and Indonesia (Oracle Batam).
-2. Scenario 01: The Rogue Node Crisis
-A predictive wargame simulating a Taiwan Strait crisis under the Vendor-State model.
- * Hypothesis: The US Vendor-Nexus will utilize "Kill Switch Diplomacy" and "Narrative Warfare" to throttle allied escalation, prioritizing supply chain stability over treaty obligations.
+**The Risk:** If software dependencies include vendor override capabilities (precedent: Starlink/Sevastopol geofencing), allied sovereignty becomes conditional on vendor approval.
 
-# Citation & Distribution
+## Research Progression
 
-Information in this repository is derived from public filings, executive orders, and forensic analysis of federal procurement data. Cloning and mirroring is encouraged.
+This is the fourth repository in a sequence:
+1. [AI Manipulation OSINT Case Study](link) - Identified systematic AI bias
+2. [Layers of Control: From AI to Ellison](link) - Mapped domestic ownership structures
+3. [Tech Consolidation Map](link) - Documented domestic bureaucratic capture
+4. **Global Layers** (this repo) - Tested if the model exports internationally
+
+**Conclusion:** The pattern holds. The mechanisms that work domestically (OTAs, sole-source contracts, SGE appointments) have international analogs (bilateral bypasses, sovereign cloud fictions, tech substitution).
+
+## Documents in This Repository
+
+### Primary Analyses
+- **[Asymmetric Dominion Report]** - The full theoretical framework
+- **[European Vector]** - How the Brussels Effect collapsed under US pressure
+- **[Ukraine/Israel Kinetic Integration]** - Battlefield as beta test
+- **[Investigative Briefing]** - Condensed version for institutional actors
+
+### Regional Deep Dives
+- Poland (Barracuda missile lock-in)
+- Japan (Sovereign cloud paradox)
+- India (Operational dominance via oligarch partnerships)
+- Indonesia (Starlink/Oracle infrastructure capture)
+
+## Methodology
+
+**What's Documented:**
+- Contract awards and modifications (public procurement databases)
+- Personnel flows (appointment announcements, LinkedIn, press releases)
+- Regulatory changes (executive orders, legislation, EU Commission documents)
+- Temporal correlations (policy shifts coinciding with vendor milestones)
+
+**What's Interpreted:**
+- Causal mechanisms (is correlation = causation?)
+- Strategic intent (coordination vs. emergent alignment?)
+- Theoretical frameworks (Schmitt, Girard, techno-feudalism)
+
+**I explicitly separate these tiers.** Challenge the interpretation, but the underlying documentation stands.
+
+## How to Use This Research
+
+**For Allied Security Analysts:**
+Focus on the contract analysis sections. Key questions to ask about your procurement:
+- Does the vendor retain kill-switch capability?
+- Does "sovereign cloud" actually prevent US intelligence access under CLOUD Act?
+- What happens if the vendor dispute arises during a crisis?
+
+**For Oversight Bodies:**
+Focus on the "Critical Unknowns" in the Investigative Briefing. These are testable questions requiring institutional resources to answer.
+
+**For Researchers:**
+All documents include cited sources. Build on this framework, challenge it, test it against other cases.
+
+**For Journalists:**
+The temporal correlations (NSS language → Digital Omnibus capitulation, troop withdrawal → tech sales spike) are the newsworthy hooks. The documents provide the receipts.
+
+## What This Is NOT
+
+- Proof of criminal conspiracy
+- Complete evidentiary package (requires institutional investigation to validate)
+- Assertion that any individual actor has malicious intent
+- Anti-American or anti-technology polemic
+
+**It's a structural risk assessment based on documented patterns.**
+
+## Contact & Contribution
+
+If you have:
+- Contract documents that aren't publicly available
+- Evidence that contradicts this framework
+- Regional expertise that would strengthen/refine analysis
+
+Contact Method:
+austinwarriors5@gmail.com
