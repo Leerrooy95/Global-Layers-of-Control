@@ -25,7 +25,7 @@ Allied nations (Poland, Ukraine, Israel, Japan, India, Indonesia) are integratin
 ## Research Progression
 
 This is the fourth repository in a sequence:
-1. [AI Manipulation OSINT Case Study](link) - Identified systematic AI bias
+1. [AI Manipulation OSINT Case Study](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study) - Identified systematic AI bias
 2. [Layers of Control: From AI to Ellison](link) - Mapped domestic ownership structures
 3. [Tech Consolidation Map](link) - Documented domestic bureaucratic capture
 4. **Global Layers** (this repo) - Tested if the model exports internationally
