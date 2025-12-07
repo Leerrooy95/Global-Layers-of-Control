@@ -3,8 +3,8 @@
 ## The Asymmetric Alliance: A Forensic Audit of the Global Vendor-State
 
 Status: Active / Rolling Assessment
-Version: 2.1 (International Layer)
-Date: December 6, 2025
+Version: v3 (International Layer)
+Date: December 7, 2025
 
 ## What This Is
 
