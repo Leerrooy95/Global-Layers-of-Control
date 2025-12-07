@@ -12,6 +12,13 @@ This repository documents the international expansion of what I initially identi
 
 **Key Finding:** The same structural patterns documented domestically (procurement bypasses, personnel isomorphism, regulatory capture) reproduce internationally through bilateral treaties, "sovereign cloud" arrangements, and defense modernization programs.
 
+## **🚨 Major Update: The Sovereign Liquidity Trap (v3)**
+Date: December 2025
+Status: Critical / Systemic Failure Identified
+Executive Summary
+This update introduces Regulatory Intelligence into the master dataset, revealing a structural compromise of the US Defense Industrial Base. While the "System Log" shows China executing a sovereign, closed-loop military strategy, the new data confirms that the US defense ecosystem has been financially captured by a foreign sovereign capital bloc (Saudi Arabia/UAE).
+Key Finding: The US military's manufacturing, cloud, and capital layers are now structurally dependent on foreign sovereign wealth, exploited through the 31 CFR § 800.307 regulatory loophole.
+
 ## Why This Matters
 
 Allied nations (Poland, Ukraine, Israel, Japan, India, Indonesia) are integrating US vendor technologies into critical sovereignty functions:
