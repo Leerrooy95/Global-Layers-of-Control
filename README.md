@@ -6,14 +6,6 @@ Status: Active / Rolling Assessment
 Version: 2.1 (International Layer)
 Date: December 6, 2025
 
-**⚠️ Context & Linkage**
-
-This repository serves as Part III of the "Asymmetric State" project. It maps the export of the domestic control architecture to US treaty allies and the Global South.
-
-*https://github.com/Leerrooy95/Tech_Consolidation_Map*
-
-*https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison*
-
 ## What This Is
 
 This repository documents the international expansion of what I initially identified as a domestic US phenomenon: the transformation of the state from technology *customer* to technology *platform* for a specific cohort of vendors (Oracle, Palantir, Anduril, SpaceX, xAI).
